@@ -1,0 +1,367 @@
+*
+{
+
+margin: 0;
+
+
+}
+body
+{
+    overflow-x: hidden;
+    
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+   
+}
+.main
+{
+    width: 100%;
+}
+
+.left
+{
+    margin-top: 80px;
+    width: 50%;
+    height: 700px;
+    float: left;
+    
+}
+.img-class
+{
+    width: 240px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.sign
+{
+    width: 110px;
+    height: 34px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    font-size: 17px;
+}
+.login
+{
+    color: black;
+    background-color: transparent;
+    border: none;
+    margin-inline: 13px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.login:hover
+{
+    color: rgb(238, 71, 10) ;
+}
+.lunch-img
+{
+    width: 50%;
+    height: 700px;
+    float: right;
+}
+.txt
+{
+    margin-left: 63px;
+    margin-top: 77px;
+}
+.cooking-txt
+{
+    font-size: 55px;
+    color: rgb(53, 52, 52);
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif ;
+    font-weight: 700;
+}
+.para-1
+{
+    margin-top: 15px;
+    font-size: 28px;
+    color: #49494988;
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif ;
+}
+.inp
+{
+    display: flex;
+}
+.input
+{
+   margin-top: 40px;
+    width: 550px;
+    height: 70px;
+    border: 1px solid; 
+    border-color: rgb(156, 155, 155);
+    border-right: none;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.food-btn
+{
+    width: 150px;
+     margin-top: 40px;
+    color:#fff;
+    background-color: rgb(238, 71, 10);
+    border: none;
+    font-size: 18px;
+}
+ a
+ {
+    color: #fff;
+ }
+.para-2
+{
+    padding-top: 40px;
+    font-size: 18px;
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif  ;
+    color: rgb(165, 164, 164);
+}
+.para-3
+{
+    padding-top: 20px;
+    font-size: 20px;
+    font-family:ProximaNova,arial,Helvetica Neue,sans-serif  ;
+    color: rgb(92, 89, 89);
+    font-weight: 600;
+}
+.card
+{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(27, 12, 1);
+    margin-bottom: 600px;
+    display:flex;
+    justify-content: initial;
+    position: relative;
+    bottom: 100px;
+}
+.cl-1
+{
+padding-left: 190px;
+width: 150px;
+}
+.cl-2
+{
+   padding-left: 320px; 
+   width: 150px;
+}
+.cl-3
+{
+    padding-left: 300px;
+    width: 190px;
+
+}
+.colu-1
+{
+font-size: 30px;
+color: #fff;
+padding-top: 20px;
+padding-left: 100px;
+}
+.colu-2
+{
+    font-size: 30px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 250px;
+}
+.colu-3
+{
+    font-size: 30px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 240px;
+}
+.col-para1
+{
+    font-size: 20px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left:85px ;
+}
+.col-para2
+{
+    font-size: 20px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left:225px ;
+}
+.col-para3
+{
+    font-size: 18px;
+    color: #fff;
+    padding-top: 20px;
+    padding-left:250px ;
+}
+.resto
+{
+    position: relative;
+    bottom: 700px;
+    width: 100%;
+    height: 900px;
+    
+}
+.pocket
+{
+width: 50%;
+float: left;
+
+}
+.h1
+{
+    padding-left: 80px;
+    padding-top: 300px;
+color: black;
+font-size: 50px;
+}
+.para-poc
+{
+font-size: 25px;
+color: rgb(168, 168, 168);
+padding-top: 20px;
+padding-left:80px ;
+}
+.ima-1
+{
+    padding-top: 60px;
+    width: 230px;
+    padding-left: 80px;
+}
+.ima-2
+{
+    padding-top: 60px;
+    width: 230px;
+    padding-left: 20px;
+}
+.rest
+{
+    width: 50%;
+    
+    float: left;
+}
+.phone-1
+{
+    width: 500px;
+    margin-left: -65px;
+}
+.phone-2
+{
+    width: 500px;
+    margin-left:350px;
+    position: relative;
+    bottom:500px ;
+    
+}
+.row
+{
+    margin-top: -220px;
+    padding-left:60px ;
+    width: 100%;
+    background-color: black;
+    height: 600px;
+    position: relative;
+    top: -600px;
+
+ 
+}
+.column-1
+{
+    float: left;
+    width: 25%;
+
+}
+.column-2
+{
+    float: left;
+    width: 25%;
+    
+}
+.column-3
+{
+    float: left;
+    width: 25%; 
+    
+}
+.column-4
+{
+    float: left;
+    width: 25%;
+     
+}
+.h2-column
+{
+    color: rgb(218, 215, 215);
+  
+    font-size: 20px;
+    position: relative;
+    bottom: 520px
+}
+.btn-img
+{
+width:900;
+position: relative;
+height: 50px;
+border-color: white;border-radius: 4px;
+}
+.img-link1
+{
+    position: relative;
+    bottom: 520px;
+    margin-right:40px;
+    width:180px ;
+    height: 70px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+.img-link2
+{position: relative;
+    bottom: 500px;
+    margin-right:40px;
+    width: 180px;
+    height: 70px;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+
+.para-10
+{
+    position: relative;
+    bottom: 500px;
+    color: #fff;
+    font-size: 20px;
+}
+#footer
+{
+    position:relative;
+    top: -900px;
+    width: 100%;
+    background-color: black;
+    height: 200px;
+    
+    
+}
+
+.footer-logo
+{
+    width: 50px;
+    height:30px ;
+    padding-left: 20px;
+    float: inline-start;
+}
+.swiggy
+{
+    color: #fff;
+    font-size: 30px;
+    
+}
+.fa-brands
+{
+   position: relative; 
+   bottom:50px ;
+   color: #fff;
+   
+}
